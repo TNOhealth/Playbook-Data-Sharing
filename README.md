@@ -2,7 +2,7 @@
 
 A complete knowledge base for health data sharing ecosystems using FAIR data and services.
 
-[Available here](https://dualslash.github.io/The-FAIR-Handbook/), automatically built from this source using [Github workflow](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions).
+[Available here](https://dualslash.github.io/TNOhealth/Playbook-Data-Sharing/), automatically built from this source using [Github workflow](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions).
 
 ## Development Instructions
 
@@ -38,4 +38,4 @@ The core contributors of this project include:
 
 ### Would you like to contribute? 
 
-An accessible option is to [open an issue](https://github.com/dualslash/The-FAIR-Handbook/issues) with any question, suggestion or addition that you may have. More advanced users can [create a branch](https://github.com/dualslash/The-FAIR-Handbook/branches) and then make a [pull request](https://github.com/dualslash/The-FAIR-Handbook/pulls) to merge their contribution with the knowledge base.
+An accessible option is to [open an issue](https://github.com/TNOhealth/Playbook-Data-Sharing/issues) with any question, suggestion or addition that you may have. More advanced users can [create a branch](https://github.com/TNOhealth/Playbook-Data-Sharing/branches) and then make a [pull request](https://github.com/TNOhealth/Playbook-Data-Sharing/pulls) to merge their contribution with the knowledge base.
