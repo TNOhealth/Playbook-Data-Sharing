@@ -10,6 +10,13 @@
 <small>TNO, EFRO</small>
 </p>
 
+```{figure} ./_static/img/datastrategy3.png
+---
+height: 500px
+name: datastrategy3
+---
+```
+
 Using a decentralized approach towards privacy by design, every data owner retains control over their data. Data does not leave its premises, instead, queries are processed locally in a secure and auditable environment. Privacy Enhancing Techniques like differential privacy or federated learning are suitable for such a model-to-data approach. The concept of the [Personal Health Train](https://pht.health-ri.nl/pht-concept) (PHT) is an example of the model to data approach. 
 
 Since the data user does not have direct access to the data, it is of great importance that data is standardised over the various data sources. For this purpose, FAIRification of data is important in order to make sure the decentralised data sources are interoperable. Model-to-data approaches also need strict governance agreements on which algorithms under which conditions can make use of the model-to-data infrastructure. 

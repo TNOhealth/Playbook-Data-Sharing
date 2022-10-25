@@ -4,11 +4,12 @@
 
 **Copy and Download** is the most simple data sharing approach where the data controller shares copies of data directly with other parties, the data recipients. This approach is the easy to implement and is still being used the most, but comes with a number of drawbacks.
 
-<p align = "center">
-<img src=".\_static\img\datastrategy1.png" height="464" />
-</br>
-<small>TNO, EFRO</small>
-</p>
+```{figure} ./_static/img/datastrategy1.png
+---
+height: 464px
+name: datastrategy1
+---
+```
 
 The most simple form of Copy and Download is by sending data files, such as excel files or compressed archives, via email or via a public download link. More advanced and secure methods are for example by creating Application Programming Interfaces [(API)](https://www.hl7.org/fhir/http.html) that control access to the data, through a secure or private download link. 
 
