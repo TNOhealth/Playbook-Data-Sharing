@@ -15,16 +15,13 @@ These principles cover four principal categories:
 3. **I**nteroperable
 4. **R**eusable
 
-
-
-<p align = "center">
-<img src=".\_static\img\fairbig.png" height="300" />
-</br>
-<small>SciBite, Elsevier.</small>
-</p>
-
-
-
+```{figure} ./_static/img/fairbig.png
+---
+height: 300px
+name: fairbig
+---
+SciBite, Elsevier.
+```
 
 These guidelines have seen rapid adaptation by the scientific community as well as the public sector, with the private sector also showing interest in the value that FAIR can bring. FAIR not only makes your data more manageable, but also makes your data more valuable by increasing the scope of possible application, speeding up data exploration and encouraging reuse of existing data sources. 
 

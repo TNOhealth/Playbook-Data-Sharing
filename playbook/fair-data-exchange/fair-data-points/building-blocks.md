@@ -6,11 +6,12 @@ A FAIR Data point consists of many different elements, which in essence are a la
 
 </br>
 
-<p align = "center">
-<img src=".\_static\img\fdp_blocks_diagram.png" height="474" />
-</br>
-<small>TNO.</small>
-</p>
+```{figure} ./_static/img/fdp_blocks_diagram.png
+---
+height: 802px
+name: fdp_blocks_diagram
+---
+```
 
 </br>
 

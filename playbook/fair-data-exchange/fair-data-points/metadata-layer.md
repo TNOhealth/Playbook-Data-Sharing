@@ -21,14 +21,18 @@ With metadata you can:
 - Search resources by all kinds of criteria; 
 
 - Identify various resources; 
+
 - Collect resources by topic; 
+
 - Trace resources. 
 
-<p align = "center">
-<img src=".\_static\img\metadataformats.png" height="359" />
-</br>
-<small>TNO, EFRO.</small>
-</p>
+
+```{figure} ./_static/img/metadataformats.png
+---
+height: 359px
+name: metadataformats
+---
+```
 
 **Descriptive metadata** is dedicated to the textual description of the data, which datasets are available, what are the limitations for data usage, contact point within the organization for data, etc. 
 
