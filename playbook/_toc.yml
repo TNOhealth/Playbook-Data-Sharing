@@ -59,8 +59,7 @@ parts:
     - file: legislation/medical-treatment-agreement-act
     - file: legislation/medical-scientific-research-with-persons
     - file: legislation/clinical-trial-directive-and-regulation
-    - file: legislation/electronic-data-exchange-in-healthcare-act
-    - file: legislation/medical-device-regulation
     - file: legislation/personal-data-in-healthcare-act
     - file: legislation/the-database-directive
     - file: legislation/human-tissues-and-cell-directive
+    - file: legislation/medical-device-regulation
