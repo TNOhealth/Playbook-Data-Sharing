@@ -25,4 +25,5 @@ Every medical device on the European market must have CE marking. CE marking mea
 Medical devices Class IIa, IIb and III must be inspected by an independent authority (Notified Body). If this authority approves the product you will receive a CE certificate. Only then are you allowed to market the medical device.
 
 [more on MDR for businesses](https://business.gov.nl/regulation/medical-devices/)
+<br>
 [simplified guideline for MDR](https://www.fme.nl/system/files/publicaties/2021-09/MDR%20Guide.pdf)
