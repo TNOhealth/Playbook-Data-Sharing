@@ -6,5 +6,5 @@ The **‘Wet Medisch-Wetenschappelijk Onderzoek met Mensen’ (WMO)** settles th
 </br>
 </br>
 
-The WMO is relevant for companies that conduct clinical trails (in the Netherlands) in order to develop their product.
+The WMO is relevant for companies that conduct clinical trails (in the Netherlands) in order to develop their product. More information about the WMO can be found [here]([https://github.com/dualslash/The-FAIR-Handbook](https://www.ccmo.nl/onderzoekers/wet-en-regelgeving-voor-medisch-wetenschappelijk-onderzoek/uw-onderzoek-wmo-plichtig-of-niet))
 
