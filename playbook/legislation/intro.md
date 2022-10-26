@@ -18,5 +18,5 @@ The legal domain is constantly evolving and compliance towards data legislations
 - [EU AI Act](https://digital-strategy.ec.europa.eu/en/policies/european-approach-artificial-intelligence)
 - [EU Digital Markets Act](https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/digital-markets-act-ensuring-fair-and-open-digital-markets_en)
 <br>
-<br>
+
 However, in this chapter we will only focus on the variety of Dutch relevant legislation.
