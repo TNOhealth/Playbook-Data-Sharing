@@ -25,8 +25,8 @@ The GDPR is a principle-based law. It defines a set of principles that should be
 4.	Personal data should be accurate and, where necessary, kept up to date.
 5.	Personal data should be kept in a form which permits identification of data subjects no longer than is necessary for the purposes of the processing. 
 6.	Personal data should be processed in a manner that ensures appropriate protection of the data.
-7.	
 <br>
+
 Article 5, GDPR, has a few explicit extensions concerning research activities. The second principle includes that in case of further processing of data for scientific research, one may consider the new purpose to be compatible with the original one.  The fifth principle also includes that data may be stored for longer periods when data are processed for research activities.  
 
 ## Grounds for the lawful  processing of personal data
