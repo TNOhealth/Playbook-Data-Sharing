@@ -2,7 +2,7 @@
 
 </br>
 
-**Model to Data** is an approach where the data controller allows researchers to send algorithms or queries to the data source to collect an answer or a trained algorithm back. When properly implemented, this method guarantees that underlying is not exposed. This strategy is the most complex to implement, but enables privacy by design.
+**Model to Data** is an approach where the _data controller_ allows researchers to send algorithms or queries to the data source, to collect an answer or a trained algorithm back. When properly implemented, this method guarantees that underlying data is not exposed. This strategy is the most complex to implement, but enables privacy by design.
 
 ```{figure} ./_static/img/datastrategy3.png
 ---
