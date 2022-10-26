@@ -29,14 +29,14 @@ The GDPR is a principle-based law. It defines a set of principles that should be
 Article 5, GDPR, has a few explicit extensions concerning research activities. The second principle includes that in case of further processing of data for scientific research, one may consider the new purpose to be compatible with the original one.  The fifth principle also includes that data may be stored for longer periods when data are processed for research activities.  
 
 ## Grounds for the lawful  processing of personal data
-The GDPR continues with offering six grounds for the lawful processing of personal data. Any processing of personal data should be based on at least one of these grounds. Of these six, five represent a necessity for processing the data. The sixth ground (which is the first mentioned in the GDPR) offers the option to process personal data on the basis of the consent provided by the data subject. We will follow the order as presented in the GDPR :
+The GDPR continues with offering six grounds for the lawful processing of personal data. Any processing of personal data should be based on at least one of these grounds. Of these six, five represent a necessity for processing the data. The sixth ground (which is the first mentioned in the GDPR) offers the option to process personal data on the basis of the consent provided by the data subject. We will follow the order as presented in the GDPR:
 <br>
 1.	Processing occurs on the basis of specific, freely given, unambiguous and informed consent.
 2.	Processing is necessary for the performance of or the entering into a contract.
 3.	Processing is necessary for compliance with a legal obligation.
-4.	Processing is necessary for the protection of the vital interests of a data subject or another natural person. 
+4.	Processing is necessary for the protection of the vital interests of a data subject or another natural person.
 5.	Processing is necessary for a task of public interest.
-6.	Processing is necessary for the legitimate interest of the controller or of a third party. 
+6.	Processing is necessary for the legitimate interest of the controller or of a third party.
 <br>
 The GDPR subsequently indicates that the data subject has the right to withdraw his or her consent at any time and withdrawal of consent should be as easy as it is to provide consent.  To evaluate whether consent is freely given, one should especially pay attention to potential imbalances between the data subject and the controller.  The European Data Protection Authorities present the relation of the employee vis-à-vis the employer as an example of a relation between data subject and controller in which an imbalance exists.  Consent may not be used in these circumstances as ground for lawful processing. In an earlier Working Document, the Article 29 Working Party (which is now replaced by the European Data Protection Board, henceforth EDPB) questions whether consent can be considered to be freely given in case of medical treatment.  To evaluate whether consent was informed, at least information on the controller and the purposes of processing should be given. 
 The contract that is mentioned in the second ground relates to labour contracts as well. An employer thus is allowed to process data concerning an applicant in advance of offering a job. 
