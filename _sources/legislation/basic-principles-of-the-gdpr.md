@@ -1,6 +1,6 @@
 # Basic Principles of the GDPR
-
 </br>
+
 ## Introduction into the GDPR
 The **GDPR** is a rather encompassing piece of legislation that covers a wide variety of aspects in processing personal data. Parts of the GDPR clearly are outside the scope of this report.  Whenever relevant, reference will be made to these parts of the GDPR. The first five chapters of the GDPR are more relevant to understand the core principles of data protection regulation. We will however only present a rather brief overview of these core principles, sufficient to get an initial understanding of the legal framework on the processing of personal data. The focus will be on the general principles regarding the processing of personal data as used within the GDPR, followed by the grounds that can be invoked in order to establish lawful processing, the additional constraints when sensitive personal data are processed, the rights of data subjects and the obligations of data controllers. Issues related to the transfer of personal data to third countries are covered when relevant in treating the topics mentioned. The GDPR starts by outlining some general provisions, including definitions of crucial concepts. Here the following definitions are relevant:
 <br>
