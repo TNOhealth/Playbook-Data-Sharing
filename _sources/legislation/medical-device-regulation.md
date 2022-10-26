@@ -6,10 +6,13 @@ In May 2021 a new stricker regulation for medical devices (**Medical Device Regu
 
 In the MDR medical devices are classified according to the risk there is for the patient. In the MDR four categories are identified:
 <br>
-1. Medical devices with low risk
-2. Medical devices with moderate risk
-2b. Medical devices with moderate to high risk
-3. Medical devices that come into direct contact with the heart, the central circulatory system or the central nervous system
+I- Medical devices with low risk
+<br>
+IIa - Medical devices with moderate risk
+<br>
+IIb - Medical devices with moderate to high risk
+<br>
+III - Medical devices that come into direct contact with the heart, the central circulatory system or the central nervous system
 <br>
 
 
