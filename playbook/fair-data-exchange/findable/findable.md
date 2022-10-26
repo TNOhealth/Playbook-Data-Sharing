@@ -2,7 +2,7 @@
 
 </br>
 
-The first step in (re)using data is to find them.  [Metadata](https://en.wikipedia.org/wiki/Metadata_Encoding_and_Transmission_Standard)  and data should be easy to find for both humans and computers. [Machine-readable](https://en.wikipedia.org/wiki/Machine-readable_data) metadata are essential for automatic [discovery](https://en.wikipedia.org/wiki/Data_discovery) of datasets and services, so this is an essential component of the FAIRification process. 
+The first step in (re)using data is to find FAIR data resoures.  [Metadata](https://en.wikipedia.org/wiki/Metadata_Encoding_and_Transmission_Standard)  and data should be easy to find for both humans and computers. [Machine-readable](https://en.wikipedia.org/wiki/Machine-readable_data) metadata are essential for automatic [discovery](https://en.wikipedia.org/wiki/Data_discovery) of datasets and services, so this is an essential component of the FAIRification process. 
 
 </br>
 
