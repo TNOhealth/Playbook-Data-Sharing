@@ -3,7 +3,9 @@
 </br>
 
 In May 2021 a new stricker regulation for medical devices (**Medical Device Regulation - MDR**) was taken in effect. The MDR applies to medical devices and products used for diagnoses and treatments in the healthcare sector or products that can help prevent or predict disease or disorders. These include devices like bandages, pacemakers and surgical instruments but also software like medical apps. Manufactures and developers of such medical devices most comply with the legal requirements of the MDR.
-
+<br>
+**Describe how this relates to data sharing**
+<br?
 In the MDR medical devices are classified according to the risk there is for the patient. In the MDR four categories are identified:
 <br>
 I- Medical devices with low risk
