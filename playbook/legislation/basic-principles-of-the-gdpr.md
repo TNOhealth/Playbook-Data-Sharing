@@ -49,13 +49,14 @@ A public interest should demonstrate through Union law or member state law. The 
 Demonstrating a legitimate interest of a controller or third party requires a balancing test in which the interests of the controller or third party is balanced against the interests of the data subject concerning his or her rights and freedoms. Recital 47 of the GDPR emphasizes the relevance of keeping in mind the reasonable expectations of the data subject concerning the processing or further processing of their data by the controller. 
 
 ## Exceptions on the prohibition to process special categories of personal data
-The grounds for lawful processing of personal data presuppose that it is allowed to process personal data given the presence of a lawful ground. The GDPR – just as its predecessor the DPD – determines however that it is prohibited to process personal data that are part of a limitative set of so-called special categories of personal data unless a specific derogation can be invoked.  Health data are one of these special categories.  In case of health data, one of the following exemptions might be relevant: 
+The grounds for lawful processing of personal data presuppose that it is allowed to process personal data given the presence of a lawful ground. The GDPR – just as its predecessor the DPD – determines however that it is prohibited to process personal data that are part of a limitative set of so-called special categories of personal data unless a specific derogation can be invoked.  Health data are one of these special categories.  In case of health data, one of the following exemptions might be relevant:
 <br>
 1.	The explicit consent of the data subject.
 2.	Health data have been manifestly made public. 
 3.	Processing is necessary for the purposes of preventive or occupational medicine, for the assessment of medical diagnosis, the provision of health or social care or treatment or the management of health or social care systems and services on the basis of Union or Member State law.
 4.	Processing is necessary for reasons of public interest in the area of public health, for instance to ensure high standards of quality and safety of health care and of medicinal products or medical devices. 
-5.	Processing is necessary for scientific research purposes. 
+5.	Processing is necessary for scientific research purposes.
+<br>
 <br>
 The addition ‘explicit’ in ‘explicit consent’ refers to a written statement or a likewise made statement in electronic form. In its Opinion on consent the EDPB also refers to two-factor consent provision as an example how to provide for explicit consent.  
 The term ‘manifestly’ in the second bullet may require further interpretation. A message posted on a publicly available social network may be considered to be manifestly made public. When such a message is posted in a group that requires subscription, the information cannot be considered to be manifestly made public anymore. 
