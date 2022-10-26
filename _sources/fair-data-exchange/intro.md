@@ -4,7 +4,7 @@
 
 What exactly is FAIR data? How can data be FAIR? What does FAIR mean for your organization and why would it be beneficial to implement FAIR?
 
-The FAIR principles center around *improving data management strategies*. Traditional data management focusses around the process of improving the tooling around specific data formats, use cases and standards. This however becomes infeasible with the rapid growth of data, both in terms of volume as well as variety.
+The FAIR principles center around *improving data management strategies*. Traditional data management focusses on the process of improving the tooling around specific data formats, use cases and standards. This however becomes infeasible with the rapid growth of data, both in terms of volume as well as variety.
 
 Instead of focusing purely on the tooling, the FAIR principles suggest a more *holistic approach* around data management within an organization. These principles provide a guideline for the structure around the data that we use, as well as the services that interact with data.
 
@@ -23,7 +23,7 @@ name: fairbig
 SciBite, Elsevier.
 ```
 
-These guidelines have seen rapid adaptation by the scientific community as well as the public sector, with the private sector also showing interest in the value that FAIR can bring. FAIR not only makes your data more manageable, but also makes your data more valuable by increasing the scope of possible application, speeding up data exploration and encouraging reuse of existing data sources. 
+These principles have seen rapid adaptation by the scientific community as well as the public sector, with the private sector also showing interest in the value that FAIR can bring. FAIR not only makes your data more manageable, but also makes your data more valuable by increasing the scope of possible application, speeding up data exploration and encouraging reuse of existing data sources. 
 
 :::{seealso}
 
