@@ -17,6 +17,8 @@ The provision of secure computing environments can in some cases be complex and 
 
 The researcher-to-data approach is mostly applied by parties that collect large data sets. For example, [LifeLines](https://www.lifelines.nl/) manages a large amount of health data from a major cohort of volunteers (167.000) in the Northern part of the Netherlands. LifeLines allows other research parties to use data within a secure computing environment. In the UK [OpenSafely](https://www.opensafely.org/) provides a secure analytics platform for analysis of 58 million NHS electronic health records. OpenSafely also provides an [open source software platform](https://github.com/opensafely-core) that can be used for the researcher-to-data approach by other parties or institutes.
 
+This method works well in terms of synchronzing between local and remote data states. Since the data analysis is done on the remote storage, all users work with the same version of the data. 
+
 The researcher-to-data strategy works well when there is one -data controller- that controls a large collection of data. However, a problem arises when sensitive data from multiple data holders are in combination needed for analysis. In those cases, collecting data in one central environment is often not a convenient solution since individual data holders might not want to lose control over their data.
 
  </br>
