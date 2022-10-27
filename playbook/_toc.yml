@@ -3,13 +3,17 @@
 
 format: jb-book
 root: intro
+
 parts:
+
   - caption: Data Sharing Approaches
     chapters:
     - file: data-sharing-approaches/intro
     - file: data-sharing-approaches/copy-and-download
     - file: data-sharing-approaches/researcher-to-data
     - file: data-sharing-approaches/model-to-data
+    
+    
   - caption: FAIR Data Exchange
     chapters:
     - file: fair-data-exchange/intro
@@ -44,6 +48,8 @@ parts:
         - file: fair-data-exchange/schematics/data-sharing-workflow
         - file: fair-data-exchange/schematics/data-integration-architecture
         - file: fair-data-exchange/schematics/data-sharing-architecture
+        
+        
   - caption: Privacy-Enhancing Technologies (PET)
     chapters:
     - file: privacy-enhancing-technologies/intro
@@ -52,6 +58,8 @@ parts:
     - file: privacy-enhancing-technologies/model-to-data-pets
     - file: privacy-enhancing-technologies/augmentation-pets
     - file: privacy-enhancing-technologies/concluding-remarks
+    
+    
   - caption: Legislation
     chapters:
     - file: legislation/intro
