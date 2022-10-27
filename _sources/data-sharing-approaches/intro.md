@@ -13,7 +13,7 @@ name: datastrategies
 
 The figure above shows the three approaches: Copy and Download, Researcher to Data and finally Model to Data, these models provide increasing capacity for security, reliability and privacy while also being increasing complexity to implement. 
 
-Depending on the specific needs, a balance may be struck between implementation feasibility and requirements for security, privacy and reliability. In the following pages we will describe these approaches and both their advantages and disadvantages in a bit more detail.
+Depending on the specific needs and requierments for subsequent analysis, a balance may be struck between implementation feasibility and requirements for security, privacy and reliability. In the following pages we will describe these approaches and both their advantages and disadvantages in a bit more detail. 
 
 </br>
 
