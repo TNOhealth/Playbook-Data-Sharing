@@ -4,7 +4,7 @@
 
 ```{figure} ./_static/img/dataintegration.png
 ---
-height: 740px
+width: 768px
 name: dataintegration
 ---
 Click the diagram to see the full size diagram.
