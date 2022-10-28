@@ -7,6 +7,7 @@ root: intro
 parts:
 
   - caption: Data Sharing Approaches
+  - file: data-sharing-approaches/intro
     chapters:
     - file: data-sharing-approaches/intro
     - file: data-sharing-approaches/copy-and-download
