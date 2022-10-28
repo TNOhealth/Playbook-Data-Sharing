@@ -39,6 +39,7 @@ The GDPR continues with offering six grounds for the lawful processing of person
 5.	Processing is necessary for a task of public interest.
 6.	Processing is necessary for the legitimate interest of the controller or of a third party.
 <br>
+
 The GDPR subsequently indicates that the data subject has the right to withdraw his or her consent at any time and withdrawal of consent should be as easy as it is to provide consent.  To evaluate whether consent is freely given, one should especially pay attention to potential imbalances between the data subject and the controller.  The European Data Protection Authorities present the relation of the employee vis-à-vis the employer as an example of a relation between data subject and controller in which an imbalance exists.  Consent may not be used in these circumstances as ground for lawful processing. In an earlier Working Document, the Article 29 Working Party (which is now replaced by the European Data Protection Board, henceforth EDPB) questions whether consent can be considered to be freely given in case of medical treatment.  To evaluate whether consent was informed, at least information on the controller and the purposes of processing should be given. 
 The contract that is mentioned in the second ground relates to labour contracts as well. An employer thus is allowed to process data concerning an applicant in advance of offering a job. 
 <br>
