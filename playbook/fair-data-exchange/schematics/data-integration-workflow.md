@@ -7,7 +7,7 @@
 width: 768px
 name: dataintegration
 ---
-Click the diagram to see the full size diagram.
+Click to see the full size diagram.
 ```
 
 </br>
