@@ -57,8 +57,9 @@ The grounds for lawful processing of personal data presuppose that it is allowed
 3.	Processing is necessary for the purposes of preventive or occupational medicine, for the assessment of medical diagnosis, the provision of health or social care or treatment or the management of health or social care systems and services on the basis of Union or Member State law.
 4.	Processing is necessary for reasons of public interest in the area of public health, for instance to ensure high standards of quality and safety of health care and of medicinal products or medical devices. 
 5.	Processing is necessary for scientific research purposes.
+
 <br>
-<br>
+
 The addition ‘explicit’ in ‘explicit consent’ refers to a written statement or a likewise made statement in electronic form. In its Opinion on consent the EDPB also refers to two-factor consent provision as an example how to provide for explicit consent.  
 The term ‘manifestly’ in the second bullet may require further interpretation. A message posted on a publicly available social network may be considered to be manifestly made public. When such a message is posted in a group that requires subscription, the information cannot be considered to be manifestly made public anymore. 
 The third bullet refers to activities requiring the processing of personal health data for purposes of different kind of medical activities, running from preventive and occupational medicine to medical diagnosis and health management purposes. Likewise, for quality assurance of the health care process and of medical devices and apparatus it is allowed to use personal data when this is considered to be necessary. 
