@@ -4,10 +4,10 @@
 
 ```{figure} ./_static/img/techdatasharing.png
 ---
-height: 740px
+width: 768px
 name: techdatasharing
 ---
-Click the diagram to see the full size diagram.
+Click to see the full size diagram.
 ```
 
 </br>
