@@ -4,10 +4,10 @@
 
 ```{figure} ./_static/img/techdataintegration.png
 ---
-height: 740px
+width: 768px
 name: techdataintegration
 ---
-Click the diagram to see the full size diagram.
+Click to see the full size diagram.
 ```
 
 </br>
