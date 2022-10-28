@@ -4,10 +4,10 @@
 
 ```{figure} ./_static/img/datasharing.png
 ---
-height: 740px
+width: 768px
 name: datasharing
 ---
-Click the diagram to see the full size diagram.
+Click to see the full size diagram.
 ```
 
 </br>
