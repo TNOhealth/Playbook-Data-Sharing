@@ -17,8 +17,8 @@ The **Data Integration Workflow** diagram describes the process level of the int
 The steps of this workflow are as follows:
 
 * Incoming & Existing Data
- * External data from data exchange, acquisition or open data sources are presented for validation and processing.
- * Internal data from business processes, monitoring and research entry are presented for validation and processing.  
+  * External data from data exchange, acquisition or open data sources are presented for validation and processing.
+  * Internal data from business processes, monitoring and research entry are presented for validation and processing.  
 
 * Validation
   * Verification that the data provider user or group has the right permissions to access the data integration service. 
