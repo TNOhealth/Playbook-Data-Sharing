@@ -1,6 +1,7 @@
 # WGBO - Medical Treatment Agreement Act
 
 <br>
+
 The most relevant law determining the treatment of patients in the Netherlands is the **Wet Geneeskundige Behandelingsovereenkomst (WGBO)**. The WGBO concerns the contractual relation (either implicit or explicit) between caregivers and patients.  The caregiver has the obligation to deliver good quality of care. In order to do so, he or she is obliged to keep a file on a patient and the treatment of the patient.  The WGBO indicates that information about a patient and his or her treatment can be shared between those who are directly involved in the treatment of the patient.  Sharing data with “others” outside the direct treatment, including professional caregivers is only allowed when the patient has consented to this sharing.  This consent should be distinguished from the informed consent that is prerequisite before a patient can be treated.
 <br>
 <br>
