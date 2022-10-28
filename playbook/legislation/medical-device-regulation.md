@@ -6,13 +6,10 @@ In May 2021 a new stricker regulation for medical devices (**Medical Device Regu
 <br>
 In the MDR medical devices are classified according to the risk there is for the patient. In the MDR four categories are identified:
 <br>
-I- Medical devices with low risk (non-sterile and/or non measuring, like bandage etc)
-<br>
-IIa - Medical devices with moderate risk
-<br>
-IIb - Medical devices with moderate to high risk
-<br>
-III - Medical devices that come into direct contact with the heart, the central circulatory system or the central nervous system
+* I- Medical devices with low risk (non-sterile and/or non measuring, like bandage etc)
+* IIa - Medical devices with moderate risk
+* IIb - Medical devices with moderate to high risk
+* III - Medical devices that come into direct contact with the heart, the central circulatory system or the central nervous system
 <br>
 For class I medical devices (non-sterile and/or non-measuring) no certificiation is needed. For higher risk class Medical Devices like software and health apps, the product needs to be certified. For this medical evaluation or clinical investigation has to be conducted. The Dutch goverment published a [simplified guideline for MDR](https://www.fme.nl/system/files/publicaties/2021-09/MDR%20Guide.pdf). In the document also information is provided about CE marking that is obliged for every medical device or medical software on the European market. Inspection of medical devices and medical software with a classification above I must be inspected by a Notified Body. This authority can approve medical devices for CE certificates. 
 <br>
