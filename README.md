@@ -6,7 +6,7 @@ A complete knowledge base for health data sharing ecosystems using FAIR data and
 <br clear="right"/>
 
 <a target="_blank" href="https://tnohealth.github.io/Playbook-Data-Sharing/">
-    <img alt="Open Playbook" src="https://user-images.githubusercontent.com/9567830/199052304-ecfedcae-e88e-4c37-838e-fcd9c1b03c87.png" width=137">
+<img alt="Open Playbook" src="https://user-images.githubusercontent.com/9567830/199052304-ecfedcae-e88e-4c37-838e-fcd9c1b03c87.png" width=137">
 </a>
 </br>
 </br>
