@@ -1,8 +1,13 @@
 # The Playbook for Health Data Sharing Ecosystems
 
-A complete knowledge base for health data sharing ecosystems using FAIR data and services.
+<img src="https://user-images.githubusercontent.com/9567830/199050409-8e9dc3a5-de2d-416a-9d33-dc7be25a72f0.png" align="right" width="128px"/>
+A complete knowledge base for health data sharing ecosystems using FAIR data and services, made possible by TNO for the National eHealth Living Lab (NeLL).
 
-[Available here](https://tnohealth.github.io/Playbook-Data-Sharing/), automatically built from this source using [Github workflow](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions).
+<br clear="right"/>
+
+[![playbookbutton](https://user-images.githubusercontent.com/9567830/199052304-ecfedcae-e88e-4c37-838e-fcd9c1b03c87.png)](https://tnohealth.github.io/Playbook-Data-Sharing/)
+
+This web application is automatically built from this repository using a [Github workflow](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions).
 
 ## Development Instructions
 
